@@ -1,0 +1,4 @@
+<?php
+
+ECHO "SE REALIZO LA OPERACION";
+?>
